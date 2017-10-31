@@ -1,4 +1,4 @@
-# HermesOnline.Web.Spa/Frontend
+# Angular2 - TypeScript
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli).
 
@@ -9,7 +9,7 @@ Open Command Prompt:
 
 - Run `npm install npm@latest -g` to install Node Package Manager
 - Run `npm install -g @angular/cli` to install AngularCLI
-- Navigate to `HermesOnline.Web.Spa\Frontend` and run `npm install` to install project dependencies
+- Run `npm install` to install project dependencies
 
 ## Development server
 - Run `npm start` for a dev server. 
