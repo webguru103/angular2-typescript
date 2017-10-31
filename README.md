@@ -12,17 +12,8 @@ Open Command Prompt:
 - Navigate to `HermesOnline.Web.Spa\Frontend` and run `npm install` to install project dependencies
 
 ## Development server
-Open Command Prompt, navigate to `HermesOnline.Web.Spa\Frontend`
-
 - Run `npm start` for a dev server. 
 - Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-
-## Build
-Go to `HermesOnline.Web.Spa\Frontend` and run `build-frontend-prod.bat` script to build frontend project. The build artifacts will be stored in the `dist` directory.
-
-Open browser, go to **http://company1.braendler.com/** and you should see new application developed in Angular2
-
 
 ## Code scaffolding
 
