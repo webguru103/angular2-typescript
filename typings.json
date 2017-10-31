@@ -1,0 +1,10 @@
+{
+  "globalDevDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20170123093700"
+  },
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20170310222111",
+    "raphael": "registry:dt/raphael#2.1.0+20160727010356"
+  },
+  "dependencies": {}
+}
